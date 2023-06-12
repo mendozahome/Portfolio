@@ -24,8 +24,8 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Inter', sans-serif;
+
 
 }
 section{
@@ -154,9 +154,9 @@ span{
     padding:1rem 2.8rem;
     background: var(--main-color);
     border-radius:4rem;
-    box-shadow: 0 0 1rem var(--main-color);
+    box-shadow: 0 0 1rem black;
     font-size: 1.6rem;
-color:black;
+color:white;
 letter-spacing: .1rem;
 font-weight: 600;
 transition: .5s ease;
